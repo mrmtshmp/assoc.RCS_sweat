@@ -7,6 +7,10 @@
 Bibtex <- TRUE
 source('./src/R/sub/require_libraries.main.R')
 
+sink('session_info.txt')
+sessionInfo()
+sink()
+
 dir.data   <- "../data"
 dir.output <- "./src/output/"
 
