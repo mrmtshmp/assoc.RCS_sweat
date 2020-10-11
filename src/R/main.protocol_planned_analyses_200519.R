@@ -1,7 +1,4 @@
-#' Proj.name : QSART
-#' Object    : Protocol Planned Analyses.
-#' 
-#' created  : 20/05/20
+#' Protocol Planned Analyses.
 #' 
 
 Bibtex <- TRUE

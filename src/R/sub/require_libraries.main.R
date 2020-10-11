@@ -14,8 +14,11 @@ packages.in.CRAN <- c(
   'ggbeeswarm',
   'robustbase',
   'vegan',
-  'ggsci'
+  'ggsci',
+  'survival',
+  'survminer'
   )
+
 
 # packages.in.Bioc <- c(
 #   "HMP16SData",
